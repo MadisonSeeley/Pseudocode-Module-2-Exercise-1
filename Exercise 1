@@ -1,0 +1,6 @@
+Start
+  InputRefridgeratorModelName,InteriorHeight,Width,andDepthinInches
+  RefridgeratorCapacityinCubicInches=Height*Width*Depth
+  RefridgeratorCapacityinCubicFeet=RefridgeratorCapacityinCubicInches/1728
+  OutputRefridgeratorModelNameandCapacityinCubicFeet
+Stop
